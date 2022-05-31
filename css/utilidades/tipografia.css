@@ -7,7 +7,7 @@
 }
 
 .subtitulo {
-  font: 700 2.8rem/0 "Nunito", sans-serif;
+  font: 700 2.8rem/1.125 "Nunito", sans-serif;
 }
 
 .texto-links {
@@ -16,4 +16,8 @@
 
 .texto-p {
   font: 700 1rem/0 "Nunito", sans-serif;
+}
+
+.texto-p400 {
+  font: 400 1rem/2 "Nunito", sans-serif;
 }
