@@ -1,0 +1,39 @@
+.header-bg {
+  background-color: rgb(1, 3, 161);
+  color: white;
+}
+
+.header-horario {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  align-items: center;
+}
+
+.header-horario a {
+  color: white;
+}
+
+.header-conteudo-bg {
+  background-color: rgb(18, 103, 231);
+}
+
+.header-conteudo {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: white;
+  align-items: center;
+}
+
+.header-links {
+  display: flex;
+  gap: 40px;
+}
+
+.header-links a {
+  color: white;
+}
