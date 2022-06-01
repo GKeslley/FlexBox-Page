@@ -1,6 +1,7 @@
 body {
   margin: 0px;
   padding: 0px;
+  color: #222;
 }
 
 li {
@@ -11,7 +12,10 @@ h1,
 p,
 h2,
 h3,
-a {
+a,
+li,
+a,
+ul {
   margin: 0px;
   padding: 0px;
 }
@@ -23,4 +27,8 @@ a {
 img {
   max-width: 100%;
   display: block;
+}
+
+* {
+  box-sizing: border-box;
 }
