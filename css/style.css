@@ -13,3 +13,9 @@
 
 /* Produtos */
 @import "./produtos/produtos.css";
+
+/* Preço */
+@import "./preço/preco.css";
+
+/* Qualidade */
+@import "./qualidade/qualidade.css";
