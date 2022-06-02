@@ -19,3 +19,6 @@
 
 /* Qualidade */
 @import "./qualidade/qualidade.css";
+
+/* Footer */
+@import "./footer/footer.css";

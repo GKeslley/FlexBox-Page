@@ -1,5 +1,5 @@
 .qualidade-bg {
-  background-color: #f7f7f7;
+  background-color: white;
 }
 
 .qualidade {
@@ -23,10 +23,6 @@
   color: #7c7c7c;
   font-size: 1.1rem;
   line-height: 1.4;
-}
-
-.qualidade-item:nth-child(1 + 4) {
-  background-color: blue;
 }
 
 .qualidade-item h2::before {

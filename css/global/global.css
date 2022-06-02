@@ -16,7 +16,9 @@ h3,
 a,
 li,
 a,
-ul {
+ul,
+button,
+input {
   margin: 0px;
   padding: 0px;
 }
